@@ -1,0 +1,26 @@
+.navigation li{
+    list-style-type: none;
+    text-align: center;
+    flex: auto;
+    flex-direction: column;
+    
+
+}
+
+.headings {
+    background-image: url(photo1.jpeg) no-repeat;
+    font-weight: bold;
+    text-align: center;
+    color: goldenrod;
+}
+
+.footer li{
+    text-align: center;
+    list-style-type: none;
+    flex-direction: column;
+}
+
+.container {
+    flex-direction: column;
+
+}
